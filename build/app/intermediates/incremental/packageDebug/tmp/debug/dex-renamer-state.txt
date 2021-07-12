@@ -1,0 +1,4 @@
+#Mon Jul 12 17:53:08 BRT 2021
+base.0=/home/guilherme/dev/cursos/facul/ds1/mobile/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
